@@ -1,14 +1,14 @@
 import React from "react";
-import github from "../../src/assets/github.png";
+import github from "../assets/github.png";
 import Header from "../../single Components/Header";
-import image3 from "../../src/assets/image3.png";
-import arrow from "../../src/assets/Arrow.png";
-import image from "../../src/assets/image.png";
-import image1 from "../../src/assets/image1.png";
-import stars from "../../src/assets/Stars.png"
-import avatar from "../../src/assets/Avatar1.png"
-import avatar2 from "../../src/assets/Avatar2.png"
-import avatar3 from "../../src/assets/avatar3.png"
+import image3 from "../assets/image3.png";
+import arrow from "../assets/Arrow.png";
+import image from "../assets/image.png";
+import image1 from "../assets/image1.png";
+import stars from "../assets/Stars.png"
+import avatar from "../assets/Avatar1.png"
+import avatar2 from "../assets/Avatar2.png"
+import avatar3 from "../assets/avatar3.png"
 import Footer from "../../single Components/Footer";
 
 
