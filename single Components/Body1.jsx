@@ -1,7 +1,7 @@
 import React from 'react'
 import user from "../src/assets/user.png"
 
-const Body = () => {
+const Body1 = () => {
   return (
     
       <div className="bg-body-secondary">
@@ -36,4 +36,4 @@ const Body = () => {
   );
 }
 
-export default Body
+export default Body1
