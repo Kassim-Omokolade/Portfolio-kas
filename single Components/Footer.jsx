@@ -2,7 +2,7 @@ import React from "react";
 import footer from "../src/assets/footer.png";
 import facebook from "../src/assets/Facebook.png";
 import Instagram from "../src/assets/Instagram.png";
-import LinkedIn from "../src/assets/Linkedin.png";
+import LinkedIn from "../src/assets/LinkedIn.png";
 import Vector from "../src/assets/Vector.png";
 const Footer = () => {
   return (
