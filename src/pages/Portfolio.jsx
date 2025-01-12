@@ -233,7 +233,7 @@ const Portfolio = () => {
           </div>
           <div className="d-flex  ">
             <input type="checkbox" id="terms" />
-            <label for="terms" className="ms-2">I accept the terms</label>
+            <label htmlFor="terms" className="ms-2">I accept the terms</label>
           </div>
           <button typeof="submit" className="button mt-2 border-0 rounded w-100 p-2 text-white"> Submit </button>
         </form>

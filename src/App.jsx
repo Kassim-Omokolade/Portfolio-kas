@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
 
   return (
-    <Router>
+     <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/portfolio" element={<Portfolio />} />
