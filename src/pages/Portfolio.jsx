@@ -8,7 +8,7 @@ import image1 from "../assets/Image1.png";
 import stars from "../assets/Stars.png"
 import avatar from "../assets/Avatar1.png"
 import avatar2 from "../assets/Avatar2.png"
-import avatar3 from "../assets/avatar3.png"
+import avatar3 from "../assets/Avatar3.png"
 import Footer from "../../single Components/Footer";
 
 
